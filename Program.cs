@@ -7,7 +7,8 @@ namespace CSharp_cmd
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Mammu");
+            Console.WriteLine("Mammu ");
+            Console.WriteLine("C# Smp");
         }
     }
 }
